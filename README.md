@@ -1,7 +1,7 @@
 # Tier 2 Automation
 
-## Name
-Tier 2 Automation for the Service Operations Center Event Management
+## Architecture Flow
+![alt text](image.png)
 
 ## Description
 soc-em splunk to slack statistical automation tool
