@@ -14,7 +14,7 @@ the Slack to Splunk integrated bot is an automated solution to track and respond
 - **Seamless Integration**: Integrate with Splunk to fetch, execute, and display query results without manual intervention.
 - **Improved Response Time**: Reduce the time taken to identify and resolve API performance issues.
 
-## Flow Diagram
+## Diagram
 
 ![alt text](image.png)
 
