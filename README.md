@@ -14,3 +14,6 @@ Kurtis Crowe and Jersey Calderwood
 
 ## Project status
 Still going with the project and will update as we learn.
+
+## Test Cases
+![alt text](image-1.png)
