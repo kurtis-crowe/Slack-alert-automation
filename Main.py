@@ -19,8 +19,8 @@ slack_bot_token = os.environ.get("SLACK_BOT_TOKEN")
 # Install the Slack app and get token in advance
 app = App(token=slack_bot_token)
 
-def connect_to_splunk(username, password, host='splunk-pci.t-mobile.com', port='8089', ssl_verify=False,
-                      owner='kcrowe4', app='search', sharing='user'):
+def connect_to_splunk(username, password, host='splunk-pci.t-mobile.com', port='port', ssl_verify=False,
+                      owner='user', app='search', sharing='user'):
     try:
         service = client.connect(username=username, password=password, host=host, port=port, ssl_verify=ssl_verify,
                                  owner=owner, app=app, sharing=sharing)
